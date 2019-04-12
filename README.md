@@ -12,9 +12,7 @@ The workshop is interactive, so please use the following code versio (with blank
 To edit the code, click File then Save a copy in Drive… 
 
 ---
-Prepared by [Alaa Maarouf](https://www.linkedin.com/in/alaa-maarouf/) 
-
-Conducted by [Reem Mahmoud](https://www.linkedin.com/in/reemmahmoud/)
+Prepared by [Alaa Maarouf](https://www.linkedin.com/in/alaa-maarouf/) & [Reem Mahmoud](https://www.linkedin.com/in/reemmahmoud/)
 
 ---
 
@@ -26,7 +24,7 @@ https://colab.research.google.com/drive/1yb7-C6xryf_8RBQkCm9NAXvF0KaBNJOa
 To edit the code, click File then Save a copy in Drive… 
 
 ---
-Prepared and conducted by [Obeida ElJundi](https://www.linkedin.com/in/obeidaeljundi/)
+Prepared by [Obeida ElJundi](https://www.linkedin.com/in/obeidaeljundi/)
 
 ---
 
