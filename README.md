@@ -35,7 +35,7 @@ This workshop is meant to set introductory grounds for basic concepts needed to 
 
 You can find the introductory presentation here: 
 
-https://docs.google.com/presentation/d/1HZFLkPl860FffnoyNWvF7I9qG8_W8cdesI255zO6vbc/edit#slide=id.p1
+https://docs.google.com/presentation/d/1HZFLkPl860FffnoyNWvF7I9qG8_W8cdesI255zO6vbc/edit?usp=sharing
 
 You can find the guide here: 
 
