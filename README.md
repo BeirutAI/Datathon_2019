@@ -27,7 +27,9 @@ Prepared by [Obeida ElJundi](https://www.linkedin.com/in/obeidaeljundi/)
 ---
 
 ## Guide to Sofia Air 2.0 
-This workshop is held in parallel session with the workshop covering the Kaufland Airmap case. The workshop is meant to set introductory ground into basic concepts needed to tackle the predictive analytics Sofia air pollution case as well as present the participants with a skeleton guide for tackling the case one step at a time.
+This workshop is held in parallel to a workshop covering the Kaufland Airmap case. 
+
+This workshop is meant to set introductory grounds for basic concepts needed to tackle the predictive analytics Sofia air pollution case as well as present the participants with a skeleton guide for tackling the case one step at a time.
 
 You can find the introductory presentation here: 
 https://docs.google.com/presentation/d/1HZFLkPl860FffnoyNWvF7I9qG8_W8cdesI255zO6vbc/edit#slide=id.p1
