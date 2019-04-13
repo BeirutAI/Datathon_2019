@@ -55,6 +55,8 @@ This workshop is held in parallel to a workshop covering the Sofia Air 2.0 case.
 
 This workshop is meant to set introductory grounds for basic concepts needed to tackle the Computer Vision Kaufland Airmap case.
 
+Presentation: https://docs.google.com/presentation/d/1UPkE1L-y4-0pNTiK8qRkd9KXz-11QG8sW8e0U9NL7Eo/edit?usp=sharing
+
 https://colab.research.google.com/drive/1wG2MzWGYsAZtRWF0ovFj1zsovugxXVPX
 
 To edit the notebook, click File then Save a copy in Drive… 
