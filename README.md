@@ -50,6 +50,19 @@ Conducted by [Alaa Maarouf](https://www.linkedin.com/in/alaa-maarouf/)
 
 ---
 
+## Guide to Kaufland Airmap 
+This workshop is held in parallel to a workshop covering the Sofia Air 2.0 case. 
+
+This workshop is meant to set introductory grounds for basic concepts needed to tackle the Computer Vision Kaufland Airmap case.
+
+https://colab.research.google.com/drive/1wG2MzWGYsAZtRWF0ovFj1zsovugxXVPX
+
+To edit the notebook, click File then Save a copy in Drive… 
+
+---
+Prepared & Conducted by [Christophe Zoghbi](https://www.linkedin.com/in/christophezoghbi/)
+
+---
 
 
 Happy coding 💻 
